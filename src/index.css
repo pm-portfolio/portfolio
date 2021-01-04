@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  cursor: url('./assets/cursor/glove3.png'), auto;
+}
+
+button:hover {
+  cursor: url('./assets/cursor/glove1.png'), auto;
+}
+
+button:active {
+  cursor: url('./assets/cursor/glove2.png'), auto;
+}
